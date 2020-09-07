@@ -3,4 +3,6 @@
 Ugly little first Go project.
 Does not work completely. Is not fast.
 
-./csv-compare-tool -help for options
+```bash
+csv-compare-tool -help #for options
+```
